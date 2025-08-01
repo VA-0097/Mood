@@ -912,7 +912,7 @@ a.footer_btn img{
 
 :root {
   --logo-size: 100px;
---glitch-start: 90px;
+--glitch-start: 120px;
 --glitch-height: 110px;  /* enough to cover the bottom */
 }
 

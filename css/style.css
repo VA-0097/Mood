@@ -912,8 +912,8 @@ a.footer_btn img{
 
 :root {
   --logo-size: 100px;
---glitch-start: 120px;
---glitch-height: 110px;  /* enough to cover the bottom */
+ --glitch-start: 75px;   /* Glitch starts high (above eyes) */
+  --glitch-height: 85px;  /* Covers from forehead to bottom */
 }
 
 
